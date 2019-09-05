@@ -1,0 +1,51 @@
+{
+  "title": "hello I'm mostafa",
+  "subtitle": "full stack-dev | blogger | ",
+  "links": {
+    "github": "https://github.com/Mstr72",
+    "instagram":"https://instagram.com/mstr.13139",
+    "stackoverflow":"https://stackoverflow.com/users/11986929/mstr72"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items":[{
+        "type": "p",
+        "content": "با سلام مصطفی هستم , رشته تحصیلی ام در دانشگاه کارشناسی برق بود " },{
+          "type": "p",
+          "content": "علاقه مند به طراحی وب هستم ولی هنوز اول کارم" },{
+            "type": "p",
+            "content":"نمیدونم چزا از ری-اکت خوشم اومد و باهاش حال میکنم !!!! " },{
+              "type": "p",
+              "content": "مخلص همگی شما ها هستم " }
+      ] 
+        
+      },
+        {
+          "title": "skills",
+          "items": [
+            {
+              "type": "card",
+              "content": { "image": "image/react.png", "title": "react" }
+          },
+            {
+              "type": "card",
+              "content": { "image": "image/javascript.png", "title": "javascript" }
+            },
+            {
+              "type": "card",
+              "content": { "image": "image/html5.png", "title": "html" }
+            },
+            {
+              "type": "card",
+              "content": { "image":"image/css3.png" , "title": "css" }
+            }
+          ]
+        }
+      ],
+      "icons":{
+        "down":"image/caret-down.png"
+      }
+    }
+  
+

@@ -1,0 +1,22 @@
+body {
+	max-height: 100%;
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	box-sizing: border-box;
+	overflow-x: hidden;
+	background-color: red;
+	
+	
+}
+
+  
+.changetheme1{
+	
+	float:left;
+}
+.changetheme1 img{
+	width: 20px;
+	position: fixed;
+	margin-top: 50px;
+	padding: 10px;
+  }
