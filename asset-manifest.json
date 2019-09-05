@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my.resume/static/css/main.9496b2c9.chunk.css",
+    "main.js": "/my.resume/static/js/main.da797c5b.chunk.js",
+    "main.js.map": "/my.resume/static/js/main.da797c5b.chunk.js.map",
+    "runtime~main.js": "/my.resume/static/js/runtime~main.83f7042c.js",
+    "runtime~main.js.map": "/my.resume/static/js/runtime~main.83f7042c.js.map",
+    "static/js/2.39c5f2bc.chunk.js": "/my.resume/static/js/2.39c5f2bc.chunk.js",
+    "static/js/2.39c5f2bc.chunk.js.map": "/my.resume/static/js/2.39c5f2bc.chunk.js.map",
+    "index.html": "/my.resume/index.html",
+    "precache-manifest.073082c1b6c7367f5e7510bd81532b6a.js": "/my.resume/precache-manifest.073082c1b6c7367f5e7510bd81532b6a.js",
+    "service-worker.js": "/my.resume/service-worker.js",
+    "static/css/main.9496b2c9.chunk.css.map": "/my.resume/static/css/main.9496b2c9.chunk.css.map",
+    "static/media/logo.svg": "/my.resume/static/media/logo.5d5d9eef.svg"
+  }
+}
